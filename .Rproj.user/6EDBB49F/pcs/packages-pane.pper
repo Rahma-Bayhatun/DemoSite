@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/rahma.bayhatun/OneDrive - Treo Bilgi Teknolojileri/New folder/R/win-library/3.5"
+    }
+}

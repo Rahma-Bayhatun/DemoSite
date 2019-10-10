@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563793953813.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1391183261",
+    "id" : "25E8E8B0",
+    "lastKnownWriteTime" : 1570692141,
+    "last_content_update" : 1570692141062,
+    "path" : "C:/Users/rahma.bayhatun/Desktop/RAPOR/myblog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "1,45",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
